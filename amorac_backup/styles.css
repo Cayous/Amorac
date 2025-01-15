@@ -251,7 +251,7 @@ footer {
     }
 
     nav ul {
-        margin-top: 20px;
+        margin-top: -15px;
         flex-direction: column;
         gap: 15px;
     }
